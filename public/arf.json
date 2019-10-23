@@ -1,0 +1,420 @@
+{
+  "children": [
+    {
+      "children": [
+            {
+              "name": "1581.co / fersaco.com",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Contratomarco",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Domo (Godoy Córdoba)",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Estrategiasdocumentales",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "iManage (Lexsoft)",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Jurilex",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Justsapiens",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Legalshield.com",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "LegisOffice (Legis)",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Legops cumplimiento (Legops)",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Legops gestión (Legops)",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "LeyexLaw (Grupo EGS)",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Mono Legal",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Plegex",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": " Quolaw (Vlex)",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Redelex",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Sentinelprocesal",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Redelex",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Smartlaw",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "SoftLaw",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Timebilling (Lemontech)",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Timemanager",
+              "type": "url",
+              "url": ""
+            },
+            {
+              "name": "Vigpro",
+              "type": "url",
+              "url": ""
+            }
+        ],
+        "name": "Software de gestión",
+        "type": "folder"
+      },
+    {
+      "children":[
+        {
+          "name": "AlcanceLegal",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Asesoriaslegalesonline.com",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Back startup",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "De Leyes",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Guardianes",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Jurídica",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Legal Idea",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Legal Mentors",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Phylo Legal",
+              "type": "url",
+              "url": "http://www.phylo.co"
+        },
+        {
+          "name": "Somoslegal",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Soporte jurídico",
+              "type": "url",
+              "url": ""
+        }
+      ],
+      "name": "Servicios jurídicos online",
+      "type": "folder"
+    },
+    {
+      "children":[
+        {
+          "name": "Buju",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Busco Abogados",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Misabogados.com",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Tu Abogado Ya",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Tus abogados y Contadores",
+              "type": "url",
+              "url": ""
+        }
+      ],
+      "name": "Marketplace",
+      "type": "folder"
+    },
+    {
+      "children":[
+        {
+          "name": "Conciliamos.co",
+              "type": "url",
+              "url": ""
+        }
+      ],
+      "name": "Resolución de conflictos online",
+      "type": "folder"
+    },
+    {
+      "children":[
+        {
+          "name": "buholegal.co",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Contratabien.com",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Licitaxio",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "RPH Tech",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Workshare",
+              "type": "url",
+              "url": ""
+        }
+      ],
+      "name": "Automatización de documentos",
+      "type": "folder"
+    },
+    {
+      "children":[
+        {
+          "name": "Aliatto",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Taller A",
+              "type": "url",
+              "url": ""
+        }
+      ],
+      "name": "Educación",
+      "type": "folder"
+    },
+    {
+      "children":[
+        {
+          "name": "Autenticsign.com",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Evlab/ Adalid",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Legops contratos digitales (Legops)",
+              "type": "url",
+              "url": ""
+        }
+      ],
+      "name": "E-discovery",
+      "type": "folder"
+    },
+    {
+      "children":[
+        {
+          "name": "Arancel electrónico (Legis)",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "CETA",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Data Jurídica",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Legis Analitica",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Legis Xperta (Legis)",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Lejister",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "LexAnalítica",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Lexbase",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Leyes.info (Grupo EGS)",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Lo Judicial",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Nota Tributaria",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Noticiero Oficial",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Notinet",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Quantil",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Red Jurista (Avance jurídico)",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "SGTSS-global",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Sidegap",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Tirant Le Blanch",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Vlex",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "W6C (gestionl)",
+              "type": "url",
+              "url": ""
+        }
+      ],
+      "name": "Investigación Jurídica",
+      "type": "folder"
+    },
+    {
+      "children":[
+        {
+          "name": "Sär28",
+              "type": "url",
+              "url": ""
+        },
+        {
+          "name": "Legalnomen",
+              "type": "url",
+              "url": ""
+        }
+      ],
+      "name": "Marcas y patentes",
+      "type": "folder"
+    }
+  ],
+  "name": "Legal Tech Colombia",
+  "type": "folder"
+}
